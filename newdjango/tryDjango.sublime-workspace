@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Cours",
+				"CourseCreateView"
+			],
+			[
+				"Course",
+				"CourseModelForm"
+			],
+			[
+				"templa",
+				"template_name"
+			],
+			[
+				"Articl",
+				"ArticleModelForm"
+			],
+			[
+				"get_objec",
+				"get_object_or_404"
+			],
+			[
+				"quer",
+				"queryset"
+			],
+			[
+				"Product",
+				"ProductForm"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"PO",
+				"POST"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			],
+			[
+				"decima",
+				"decimal_places"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "newdjango/urls.py",
+			"settings":
+			{
+				"buffer_size": 1157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/views.py",
+			"settings":
+			{
+				"buffer_size": 1108,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/blog/views.py",
+			"settings":
+			{
+				"buffer_size": 1209,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/templates/product/product_create.html",
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/templates/product/product_detail.html",
+			"settings":
+			{
+				"buffer_size": 194,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/forms.py",
+			"settings":
+			{
+				"buffer_size": 587,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rishirajdatta7/Dev/djangoPro",
+		"/Users/rishirajdatta7/Dev/djangoPro/lib",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/newdjango",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/products",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/products/templates",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/products/templates/product",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/templates",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/blog",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/courses",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/courses/templates",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/courses/templates/courses",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/new_Project",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates/articles",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates/course"
+	],
+	"file_history":
+	[
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/courses/views.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/courses/templates/courses/course_create.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/courses/forms.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/courses/templates/courses/course_list.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/courses/templates/courses/course_detail.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/courses/urls.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/courses/models.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates/articles/article_detail.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/new_Project/urls.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/blog/models.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/blog/forms.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates/articles/article_delete.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/blog/urls.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates/course/about.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates/course/contact.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/courses/admin.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates/course/course_detail.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/new_Project/settings.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/blog/views.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates/base.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates/article_create.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates/article_detail.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/templates/article_list.html",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/blog/admin.py",
+		"/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/manage.py",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/products/forms.py",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/templates/product/detail.html",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/products/templates/product/product_create.html",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/products/views.py",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/products/models.py",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/products/templates/product/product_detail.html",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/newdjango/urls.py",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/pages/views.py",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/products/admin.py",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/templates/base.html",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/templates/home.html",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/newdjango/settings.py",
+		"/Users/rishirajdatta7/Dev/djangoPro/newdjango/manage.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "newdjango/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "products/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								606,
+								606
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 21.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/rishirajdatta7/FirstDjangoProject/Project/src/new_Project/blog/views.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "products/templates/product/product_create.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "products/templates/product/product_detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "products/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tryDjango.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

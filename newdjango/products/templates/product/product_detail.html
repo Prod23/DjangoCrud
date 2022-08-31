@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+{% for items in object_list %}
+	<p>" {{items.title}} - <a href = '/products/{{ items.id }}/'>{{items.id}}</a></p>
+
+{% endfor %}
+
+{% endblock %} 
